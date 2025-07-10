@@ -2,6 +2,8 @@
 
 An interactive and insight-rich Excel dashboard built to analyze coffee shop sales using Excel’s advanced data tools like Pivot Tables, Power Query, Power Pivot, DAX Measures, and Slicers. This project is designed to help businesses make informed decisions through visual data storytelling.
 
+
+
 📊 Project Overview
   
   This dashboard provides detailed analysis on:
@@ -19,6 +21,8 @@ An interactive and insight-rich Excel dashboard built to analyze coffee shop sal
   📅 Order Patterns Across Days of the Week
 
 
+
+
 🔧 Tools & Features Used
 
    📈 Pivot Tables & Charts – Data summarization and visualization
@@ -34,6 +38,9 @@ An interactive and insight-rich Excel dashboard built to analyze coffee shop sal
    🎨 Professional Excel Formatting – Clean, user-friendly layout
 
 
+
+
+
 ✅ Key KPIs Tracked
 
    💰 Total Sales: $698,812.33
@@ -43,6 +50,9 @@ An interactive and insight-rich Excel dashboard built to analyze coffee shop sal
    💵 Avg Bill/Person: $4.69
 
    📦 Avg Orders/Person: 1.44
+
+
+
 
 
 💡 Use Cases
